@@ -5,8 +5,10 @@ Here's a professional and well-structured `README.md` file for your Flutter pack
 # LongPressDraggableCard
 
 A customizable Flutter widget that allows users to **drag a card horizontally to increase or decrease a count** — perfect for cart quantities, counters, or any use case where a drag gesture adjusts a numeric value.
+## 📽 Demo
 
-![Demo](https://your-demo-gif-or-image-link.com) <!-- Optional: Add GIF or screenshot of the widget in action -->
+[![Demo](https://github.com/user-attachments/assets/f35feaaa-db68-44fb-9ed9-e5aed653df6e)](https://github.com/user-attachments/assets/f35feaaa-db68-44fb-9ed9-e5aed653df6e)
+
 
 ---
 
