@@ -1,7 +1,7 @@
 name: flutter_longpressdrag_fluctuation
 description: "Flutter Long Press Drag Fluctuation"
 version: 0.0.1
-homepage:
+homepage: https://github.com/postboxat18/flutter_longpressdrag_fluctuation.git
 
 environment:
   sdk: ^3.5.3
